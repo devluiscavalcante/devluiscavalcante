@@ -62,9 +62,7 @@
   <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=loluixs&icon=9&color=9" />
 </p>    
-<div align="center">
 
   ![Snake animation](https://github.com/loluixs/loluixs/blob/output/github-contribution-grid-snake.svg)
   
-</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
