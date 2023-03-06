@@ -63,6 +63,4 @@
   <img src="https://visitcount.itsvg.in/api?id=loluixs&icon=9&color=9" />
 </p>    
 
-![snake gif](https://github.com/loluixs/loluixs/blob/output/github-contribution-grid-snake.svg)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
