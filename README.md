@@ -42,14 +42,14 @@
 ## 📈 Stats
 
 <p align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api?username=loluixs&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=loluixs&theme=dark&hide_border=false" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=loluixs&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=loluixs&theme=dark&hide_border=false" />
 </p>
 
 ## 🔝 Most used languages
 
 <p align="center">
-  <img width="35%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loluixs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img width="40%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loluixs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 ## 🏆 GitHub Trophies
