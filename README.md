@@ -11,8 +11,11 @@
 ## ⚡ Tech Stack
 
 ### 🚀 Skills
-
-[![My Skills](https://skillicons.dev/icons?i=java,hibernate,spring,kafka,maven,mysql)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,hibernate,spring,kafka,maven,mysql" />
+  </a>
+</p>
 </p>
 
 🧩 Libraries & Framework
