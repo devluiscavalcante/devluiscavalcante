@@ -1,4 +1,4 @@
-# Hey!! Great to see you here! I'm Luis Cavalcante 👋
+# Hey! I'm Luis Cavalcante 👋
 
 <p align="center">
         <a href="https://twitter.com/Loluixs">
@@ -15,24 +15,18 @@
 ### 🚀 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,hibernate,spring,kafka,maven,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,hibernate,spring,kafka,maven,mysql,git,aws" />
   </a>
 </p>
 </p>
 
-🧩 Libraries & Framework
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
-
 ### 🧑🏻‍💻 Tools & Platform
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,visualstudio" />
+  </a>
+</p>
 
 ### 💻 Workspace
 
