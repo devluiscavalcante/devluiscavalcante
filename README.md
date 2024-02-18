@@ -1,6 +1,6 @@
 # Hey! I'm Luis Cavalcante 👋
 
-<p align="center">
+<p align="left">
         <a href="https://twitter.com/Loluixs">
 		<img src="https://skillicons.dev/icons?i=twitter" />
         <a href="mailto:devluiscavalcante@gmail.com">
@@ -13,7 +13,7 @@
 ## ⚡ Tech Stack
 
 ### 🚀 Skills
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,hibernate,spring,kafka,maven,mysql,git,aws" />
   </a>
@@ -22,7 +22,7 @@
 
 ### 🧑🏻‍💻 Tools & Platform
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,visualstudio" />
   </a>
