@@ -27,10 +27,6 @@
     <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,visualstudio" />
   </a>
 </p>
-
-### 💻 Workspace
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   
 ## 📈 Stats
 
