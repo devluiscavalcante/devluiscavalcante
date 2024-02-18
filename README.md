@@ -1,12 +1,9 @@
 # Hey!! Great to see you here! I'm Luis Cavalcante 👋
 
 <p align="center">
-	<a href="https://linkedin.com/in/loluixs">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-	<a href="https://twitter.com/Loluixs">
+        <a href="https://twitter.com/Loluixs">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-        <a href="mailto:cleanmec@gmail.com">
+        <a href="mailto:devluiscavalcante@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
