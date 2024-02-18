@@ -5,6 +5,8 @@
 		<img src="https://skillicons.dev/icons?i=twitter" />
         <a href="mailto:devluiscavalcante@gmail.com">
 		<img src="https://skillicons.dev/icons?i=gmail" />
+	<a href="https://instagram.com/Loluixs">
+		<img src="https://skillicons.dev/icons?i=instagram" />
 	</a>
 </p>
 
