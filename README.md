@@ -38,7 +38,7 @@
 ## 🔝 Most used languages
 
 <p align="center">
-  <img width="40%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loluixs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img width="42%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loluixs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 ## 🏆 GitHub Trophies
