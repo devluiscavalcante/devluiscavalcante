@@ -1,5 +1,5 @@
 <h1 align="center"> Hey! I'm Luis Cavalcante 👋
-<p>ㅤ</p>
+<br></br>
 <p align="center">
         <a href="https://twitter.com/Loluixs">
 		<img src="https://skillicons.dev/icons?i=twitter" />
@@ -9,27 +9,26 @@
 		<img src="https://skillicons.dev/icons?i=instagram" />
 	</a>
 </p>
+<h1 align = "center" ## ⚡ Tech Stack
 
-## ⚡ Tech Stack
-
-### 🚀 Skills
-<p align="left">
+ 🚀 Skills
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,hibernate,spring,kafka,maven,mysql,git,aws" />
   </a>
 </p>
 </p>
 
-### 🧑🏻‍💻 Tools & Platform
+🧑🏻‍💻 Tools & Platform
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,visualstudio" />
   </a>
 </p>
   
-## 📈 Stats
-
+<h1 align="center"> 📈 Stats
+<br></br>
 <p align="center">
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=loluixs&theme=dark&hide_border=false" />
 </p>
