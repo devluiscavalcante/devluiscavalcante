@@ -1,6 +1,6 @@
-# Hey! I'm Luis Cavalcante 👋
-
-<p align="left">
+<h1 align="center"> Hey! I'm Luis Cavalcante 👋
+<p>ㅤ</p>
+<p align="center">
         <a href="https://twitter.com/Loluixs">
 		<img src="https://skillicons.dev/icons?i=twitter" />
         <a href="mailto:devluiscavalcante@gmail.com">
