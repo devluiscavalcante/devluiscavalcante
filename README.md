@@ -1,14 +1,8 @@
 <h1 align="center"> Hey! I'm Luis Cavalcante 👋
-<br></br>
-<p align="center">
-        <a href="https://twitter.com/Loluixs">
-		<img src="https://skillicons.dev/icons?i=twitter" />
-        <a href="mailto:devluiscavalcante@gmail.com">
-		<img src="https://skillicons.dev/icons?i=gmail" />
-	<a href="https://instagram.com/Loluixs">
-		<img src="https://skillicons.dev/icons?i=instagram" />
-	</a>
-</p>
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <h1 align = "center" ## ⚡ Tech Stack
 
  🚀 Skills
