@@ -40,7 +40,7 @@
 <h1 align="center"> 🔝 Most used languages
 <br></br>
 <p align="center">
-  <img width="40%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loluixs&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img width="40%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devluiscavalcante&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
   <div align="center">
