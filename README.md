@@ -21,7 +21,6 @@
     <img src="https://skillicons.dev/icons?i=,java,spring,mysql," />
   </a>
 </p>
-</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
