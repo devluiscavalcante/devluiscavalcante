@@ -34,7 +34,7 @@
 <h1 align="center"> 📈 Stats
 <br></br>
 <p align="center">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=loluixs&theme=blue_navy&hide_border=false" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=devluiscavalcante&theme=blue_navy&hide_border=false" />
 </p>
 
 <h1 align="center"> 🔝 Most used languages
