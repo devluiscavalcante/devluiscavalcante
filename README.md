@@ -1,8 +1,19 @@
 ## Luis Cavalcante
 
-**`Software Engineer Junior | Java | Spring Boot | PostgreSQL | Clean Code`**
+**`IT Support Analyst → Backend Developer | Java | Spring Boot | PostgreSQL`**
 
-I’m a Junior Software Engineer dedicated to building a solid technical foundation in software development. My current focus is on the Java ecosystem, using Spring Boot & PostgreSQL and Clean Code principles. I am a collaborative learner, always striving to write efficient, maintainable code while contributing to a team's success and growing my technical skills.
+I work in IT support and infrastructure, and I'm building my path toward backend development.
+I hold a degree in Systems Analysis and Development and I'm currently studying Data Science and Artificial Intelligence.
+
+My focus is the Java ecosystem: building REST APIs with Spring Boot and PostgreSQL, with attention to readable code, error handling and tests.
+
+### 🔎 What I bring from support
+- Day-to-day troubleshooting and incident handling in a real production environment
+- Automation of ticket creation integrating email, AI and the GLPI REST API (n8n)
+
+### 🎓 Education
+- **Data Science and AI** (Technologist), Faculdade Exame, 2026 to 2028 (in progress)
+- **Systems Analysis and Development** (Technologist), Universidade Estácio de Sá, 2024
 
 ---
 
@@ -14,8 +25,15 @@ I’m a Junior Software Engineer dedicated to building a solid technical foundat
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Maven" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
+
+<br />
+<br />
+
+**Currently learning:**
+
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" alt="GitHub Actions" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 <br />
 <br />
