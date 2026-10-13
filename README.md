@@ -7,17 +7,17 @@ I hold a degree in Systems Analysis and Development and I'm currently studying D
 
 My focus is the Java ecosystem: building REST APIs with Spring Boot and PostgreSQL, with attention to readable code, error handling and tests.
 
-### 🔎 What I bring from support
+### What I bring from support
 - Day-to-day troubleshooting and incident handling in a real production environment
 - Automation of ticket creation integrating email, AI and the GLPI REST API (n8n)
 
-### 🎓 Education
+### Education
 - **Data Science and AI** (Technologist), Faculdade Exame, 2026 to 2028 (in progress)
 - **Systems Analysis and Development** (Technologist), Universidade Estácio de Sá, 2024
 
 ---
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
