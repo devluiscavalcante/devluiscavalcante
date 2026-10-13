@@ -8,12 +8,13 @@ I hold a degree in Systems Analysis and Development and I'm currently studying D
 My focus is the Java ecosystem: building REST APIs with Spring Boot and PostgreSQL, with attention to readable code, error handling and tests.
 
 ### What I bring from support
-- Day-to-day troubleshooting and incident handling in a real production environment
-- Automation of ticket creation integrating email, AI and the GLPI REST API (n8n)
+
+Working in support gave me daily practice in troubleshooting and incident handling in a real production environment. I also built an automation for ticket creation that integrates email, AI and the GLPI REST API using n8n.
 
 ### Education
-- **Data Science and AI** (Technologist), Faculdade Exame, 2026 to 2028 (in progress)
-- **Systems Analysis and Development** (Technologist), Universidade Estácio de Sá, 2024
+
+**Data Science and AI** (Technologist), Faculdade Exame, 2026 to 2028 (in progress)<br />
+**Systems Analysis and Development** (Technologist), Universidade Estácio de Sá, 2024
 
 ---
 
