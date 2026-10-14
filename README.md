@@ -1,11 +1,11 @@
 ## Luis Cavalcante
 
-**`IT Support Analyst → Backend Developer | Java | Spring Boot | PostgreSQL`**
+**`IT Support Analyst → Backend Developer | Java | Spring Boot`**
 
 I work in IT support and infrastructure, and I'm building my path toward backend development.
 I hold a degree in Systems Analysis and Development and I'm currently studying Data Science and Artificial Intelligence.
 
-My focus is the Java ecosystem: building REST APIs with Spring Boot and PostgreSQL, with attention to readable code, error handling and tests.
+My focus is the Java ecosystem: building REST APIs with Spring Boot, with attention to readable code, error handling and tests.
 
 ### What I bring from support
 
