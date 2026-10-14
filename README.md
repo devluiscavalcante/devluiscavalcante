@@ -1,11 +1,11 @@
 ## Luis Cavalcante
 
-**`IT Support Analyst → Backend Developer | Java | Spring Boot`**
+**`IT Support Analyst → Backend & AI Developer | Python | SQL`**
 
-I work in IT support and infrastructure, and I'm building my path toward backend development.
+I work in IT support and infrastructure, and I'm building my path toward backend development with Python, focused on data and AI integration.
 I hold a degree in Systems Analysis and Development and I'm currently studying Data Science and Artificial Intelligence.
 
-My focus is the Java ecosystem: building REST APIs with Spring Boot, with attention to readable code, error handling and tests.
+I'm currently studying Python, SQL (PostgreSQL) and REST APIs. I have previously worked with Java.
 
 ### What I bring from support
 
@@ -21,10 +21,8 @@ Working in support gave me daily practice in troubleshooting and incident handli
 ### Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Maven" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
 
 <br />
 <br />
